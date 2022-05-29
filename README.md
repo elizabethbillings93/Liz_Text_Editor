@@ -22,3 +22,6 @@
   
   ### Workbox-webpack-Plugin (Provides two webpack plugins: one that generates a complete service worker for you and one that generates a list of assets to precache that is injected into a service worker file.)
 
+## Acknowledgements
+  -Elizabeth Lewis
+  - Georgia Institue of Technology 
