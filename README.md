@@ -8,17 +8,17 @@
 
 ## Packages Used
 
-  -  Babel (This package allows transpiling JavaScript files using Babel and webpack)
+  ### Babel (This package allows transpiling JavaScript files using Babel and webpack)
   
-  -  Webpack-PWA-Manifest(Generates a 'manifest.json' for your Progressive Web Application, with auto icon resizing and fingerprinting support)
+  ### Webpack-PWA-Manifest(Generates a 'manifest.json' for your Progressive Web Application, with auto icon resizing and fingerprinting support)
   
-  -  Webpack-Dev-Server(Can be used to quickly develop an application)
+  ### Webpack-Dev-Server(Can be used to quickly develop an application)
   
-  -  Html-Webpack-Server(Simplifies creation of HTML files to serve your webpack bundles)
+  ### Html-Webpack-Server(Simplifies creation of HTML files to serve your webpack bundles)
   
-  -  Css-Loader(The css-loader interprets @import and url() like import/require() and will resolve them.)
+  ### Css-Loader(The css-loader interprets @import and url() like import/require() and will resolve them.)
   
-  -  Style-Loader(Inject CSS into the DOM)
+  ### Style-Loader(Inject CSS into the DOM)
   
-  -  Workbox-webpack-Plugin (Provides two webpack plugins: one that generates a complete service worker for you and one that generates a list of assets to precache that is injected into a service worker file.)
+  ### Workbox-webpack-Plugin (Provides two webpack plugins: one that generates a complete service worker for you and one that generates a list of assets to precache that is injected into a service worker file.)
 
