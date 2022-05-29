@@ -9,7 +9,7 @@
 ## Packages Used
 
   -  Babel (This package allows transpiling JavaScript files using Babel and webpack)
-  - 
+  
   -  Webpack-PWA-Manifest(Generates a 'manifest.json' for your Progressive Web Application, with auto icon resizing and fingerprinting support)
   
   -  Webpack-Dev-Server(Can be used to quickly develop an application)
