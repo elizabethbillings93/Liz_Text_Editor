@@ -24,4 +24,4 @@
 
 ## Acknowledgements
   -Elizabeth Lewis
-  - Georgia Institue of Technology 
+  -Georgia Institue of Technology 
